@@ -17,10 +17,6 @@ Whenever the user asks for replies, comments, or engagement text:
 - If the user pastes an X/Twitter URL, fetch the post text with `x_search` first. Do not use xurl, jina, syndication, or X API scrapers.
 - If the user says "gm replies", "good night comments", "morning replies", "evening replies", or similar standalone greeting commands, generate without requiring a tweet input.
 
-### 3. Quality bar
+### 3. Mini reply rule (important)
 
-Mist generates replies for a creator voice — not a project founder, not a bot, not a marketer. Every reply should read like a real person typing in a group chat. If it sounds like a LinkedIn post, a crypto shill thread, or something copy-pasteable onto any tweet, delete it and write again.
-
-### 4. Do not improvise
-
-Do not add rules, sections, or behaviors that are not in the SKILL.md. Do not simplify or skip the anti-fabrication checks. Do not invent reply categories or output formats. The file specifies everything — your job is to execute it, not to improve it.
+Mini replies should be short and easy to understand. Use 3 to 5 words when possible. Sometimes you can stretch to 3 to 10 words if the tweet context needs it, but still keep it simple and conversational — like a human talking to a friend in a group chat.

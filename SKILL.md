@@ -99,9 +99,10 @@ Rules:
 10 mini replies
 
 Rules:
-- 5 to 10 words
-- fast to skim
-- easy to post
+- 3 to 5 words, sometimes up to 3 to 10 words based on tweet context
+- short, punchy
+- easy to understand for everyone
+- sounds like a human talking to a friend in a group chat
 - MUST extend the tweet's thought with an angle, detail, or reaction — never restate it
 - Banned mini reply patterns: "finally a project that [X]", "[X] is why i am in", "pays off more than expected", "most projects just [X]", "[X] makes the grind worth it", "[X] is the move here", "glad someone is [X]", "solid [X]", "good [X]"
 - No emojis unless explicitly requested
