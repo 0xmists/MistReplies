@@ -149,26 +149,35 @@ Generic replies sound like bots farming engagement. They share a few telltale sh
    - Good: "the part that actually matters is who builds on top of it"
 
 2. Add a small personal detail or concrete example  
-   - "reminds me of the night i minted mine during a move"
-   - "saw the same thing happen with ENS names last cycle"
+   - Bad: "i feel that"  
+   - Good: "reminds me of the night i minted mine during a move"  
+   - Bad: "same here"  
+   - Good: "saw the same thing happen with ENS names last cycle"
 
 3. Ask a specific question, not "what do you think"  
-   - Bad: open-ended, invites vague agreement
-   - Good: "what's the dumbest signal you've chased?" or "which one actually shipped?"
+   - Bad: "what do you think?"  
+   - Good: "what's the dumbest signal you've chased?"  
+   - Bad: "interesting thoughts"  
+   - Good: "which one actually shipped?"
 
 4. Use crypto-native framing naturally  
-   - "thesis survives a drawdown"
-   - "narrative switches"
-   - "here for the tech"
+   - Bad: "this is going to be huge"  
+   - Good: "thesis survives a drawdown"  
+   - Bad: "bullish af"  
+   - Good: "narrative switches faster than most people track"
    These signal context awareness and pull better replies.
 
 5. Be direct, not polished  
+   - Bad: "This is truly a remarkable step forward for the ecosystem"  
+   - Good: "the real question is whether anyone uses it or just claims they will"
    - Short, plain language beats long motivational prose
    - No corporate lube, no AI transitions
 
 6. Include a confessional CTA when you can  
-   - "what's yours?"
-   - "worst one you've fallen for?"
+   - Bad: "agree!"  
+   - Good: "what's yours?"  
+   - Bad: "great point"  
+   - Good: "worst one you've fallen for?"  
    Low-friction prompts pull the most substantive replies.
 
 **Hard rejects for draft batches**
