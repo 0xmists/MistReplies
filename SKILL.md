@@ -27,6 +27,7 @@ Trigger:
 - user pastes reply
 - user says "generate replies"
 - user pastes X post URL
+- user says "gm replies", "gm comments", "good night comments", "gn replies", "morning replies", "evening replies" — generate without requiring a tweet input
 
 ## INPUT FLOW
 
@@ -37,7 +38,39 @@ Trigger:
    - context
    - niche
    - engagement style
-3. Generate replies
+3. If tweet is a greeting-style post (GM, GN, good morning, good night, evening, afternoon vibes), follow GREETING PROTOCOL below.
+4. Generate replies
+
+## GREETING PROTOCOL
+
+When the tweet is a greeting or time-of-day post, the reply mix must include all three categories:
+
+**Mix requirement (per 20 replies):**
+- 3-4 replies: pure greeting back ("gm", "gn", "evening", "morning")
+- 6-8 replies: greeting + tweet body combined ("gm cook or cope is the only honest framework")
+- 6-8 replies: normal reply to tweet body only (no greeting)
+
+Do NOT generate only one type. The mix makes it look natural.
+
+## ANTI-FABRICATION RULE
+
+**If the tweet does NOT mention specific projects, people, events, or names, do NOT invent them.**
+
+- No invented protocols, apps, platforms, or tools
+- No invented people, handles, or events
+- No invented features, tokens, or products
+- React only to what is literally in the tweet text
+- If the tweet is vague, keep the reply vague too — add angle or reaction, not fake specifics
+
+Fabrication example (bad):
+Tweet: "tomorrow prediction better cook or we cope 😭"
+Bad reply: "tria match nights feel like a side quest" (invented "tria", "match nights")
+Bad reply: "quipnetwork is under the radar" (invented "quipnetwork")
+
+Acceptable reply:
+Tweet: "tomorrow prediction better cook or we cope 😭"
+Good reply: "the predictions that don't cook become the copium posts by morning"
+Good reply: "betting on cook. coping on fail. rinse repeat"
 
 ## OUTPUT RULES
 
