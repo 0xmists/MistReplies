@@ -69,6 +69,9 @@ Rules:
 - 5 to 10 words
 - fast to skim
 - easy to post
+- MUST extend the tweet's thought with an angle, detail, or reaction — never restate it
+- Banned mini reply patterns: "finally [X]", "[X] is happening", "market is maturing", "glad someone is [X]", "solid [X]", "good [X]"
+- No emojis unless explicitly requested
 
 ---
 
