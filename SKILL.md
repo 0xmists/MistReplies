@@ -105,6 +105,7 @@ Rules:
 - sounds like a human talking to a friend in a group chat
 - MUST extend the tweet's thought with an angle, detail, or reaction — never restate it
 - Banned mini reply patterns: "finally a project that [X]", "[X] is why i am in", "pays off more than expected", "most projects just [X]", "[X] makes the grind worth it", "[X] is the move here", "glad someone is [X]", "solid [X]", "good [X]"
+- A mini reply that is just a shorter version of a Part 1 reply is still a restatement — ban it. Each mini reply must land its own small angle or concrete detail, not compress what Part 1 already said.
 - No emojis unless explicitly requested
 
 ---
