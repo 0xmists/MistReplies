@@ -82,22 +82,6 @@ If input is an X/Twitter post URL (x.com, twitter.com, x.com/i/status, mobile.x.
 
 ---
 
-## CRON / STANDALONE MODE PITFALL
-
-When invoked by a cron job or standalone script (not a live user chat), the LLM tends to dump reasoning, memory reads, and analysis before the actual output. This breaks delivery.
-
-**If the prompt says "Output ONLY the reply text" or "No explanations":**
-- Do NOT output analysis steps.
-- Do NOT output labels like "Part 1", "Part 2", "Mini replies:", or code block wrappers unless explicitly requested.
-- Generate the replies directly. First token = first word of the first reply.
-- If the prompt asks for 10 replies, output all 10 with NO surrounding commentary.
-
-**Root cause:** Preambles and analysis steps break delivery in cron mode.
-
-**Fix for job prompts:** Embed the voice rules directly in the prompt instead of asking the agent to read skill files.
-
----
-
 ## STRICT RULES
 
 Avoid:
