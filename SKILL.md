@@ -104,25 +104,90 @@ gm the grind never really stops even on a tuesday
 
 These are all too long, too thoughtful, too clever. They are for content-reply tweets, not pure greetings.
 
-**Mix requirement (per 20 replies) — only for greeting tweets that ALSO contain content:**
-- 10-12 replies: pure greeting back or minimal word ("gm", "gn", "evening", "morning", "indeed", "same", "lets go", "enjoy", "have a good one")
-- 6-8 replies: greeting + one extra word max ("gm taco tuesday", "gn and good luck", "evening gang")
-- 4-6 replies: body only, no greeting, keep it simple ("taco tuesday again", "the cycle continues", "back at it")
+---
 
-Do NOT generate only one type. The mix makes it look natural.
+**MIX REQUIREMENT — greeting + content tweets ONLY:**
+If the tweet starts with a greeting BUT ALSO contains specific content, projects, opinions, or details to react to, use this strict mix across the 20 replies:
 
-**What greeting replies are NOT:**
-- Not clever or witty
-- Not adding angles or insight
-- Not trying to sound CT-native or use slang for the sake of it
-- Not mini motivational posts
-- Not "gm [thing] is the only way" or "gm [thing] feels like [something]"
+**Category A — Pure greeting back (6-7 replies):**
+Just the greeting, 1-3 words. No reaction to content.
+```
+gm
+```
+```
+gm ☀️
+```
+```
+good morning
+```
+```
+gm lets go
+```
+```
+morning
+```
+```
+gm same
+```
+```
+gm enjoy
+```
 
-**What greeting replies ARE:**
-- 1-3 words max
-- Could be typed without looking at the keyboard
-- Forgettable, generic, universal
-- The same reply you'd give 100 different accounts
+**Category B — Greeting + body combined (6-7 replies):**
+Greeting plus a short reaction to the content. Keep it casual, 4-8 words max. This is where you acknowledge what the tweet actually said.
+```
+gm that cashback angle is clean
+```
+```
+gm tria looking smooth
+```
+```
+gm uncapped cashback is huge
+```
+```
+gm travel integration makes sense
+```
+```
+gm quipnetwork staying small is interesting
+```
+```
+gm this is better than points farming
+```
+```
+gm real utility over hype
+```
+
+**Category C — Body only, no greeting (6-7 replies):**
+React to the content without any greeting. Short, casual, 3-7 words.
+```
+tria travel angle looks clean
+```
+```
+uncapped cashback changes the game
+```
+```
+actually using it for trips makes sense
+```
+```
+quipnetwork still under the radar
+```
+```
+better than just watching points move
+```
+```
+real consumer features finally
+```
+```
+digging into the tria data today
+```
+
+**Strict rules for greeting+content tweets:**
+- Do NOT put all 20 replies in one category
+- Do NOT make every reply a greeting+body combo
+- Category A must be present — at least 6 pure greetings
+- If you cannot tell which category a reply belongs to, it probably belongs in Category B
+- Keep Category B and C replies short — no more than 8 words
+- Still no buzzwords, no em dashes, no motivational closers
 
 ## ANTI-FABRICATION RULE
 
@@ -177,6 +242,7 @@ Rules:
 - MUST be forgettable — the kind of reply you read and forget in under a minute
 - No cleverness, no angles, no added insight
 - No emojis unless explicitly requested
+- For greeting+content tweets: mix of greeting-only, greeting+body, body-only (same as Part 1)
 - Banned mini reply patterns: "finally a project that [X]", "[X] is why i am in", "pays off more than expected", "most projects just [X]", "[X] makes the grind worth it", "[X] is the move here", "glad someone is [X]", "solid [X]", "good [X]", "[X] hits different", "[X] is king", "[X] stays winning", "[X] never misses", "[X] is the only way", "real [X] energy", "[X] unlocked", "[X] gang", "serious [X] energy", "[X] incoming", "[X] superiority", "[X] for the win", "[X] banger", "perfect [X] vibe"
 
 ---
